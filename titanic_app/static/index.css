@@ -1,3 +1,7 @@
+body{
+    background-color: white
+}
+
 .header{
     text-align: center;
     background-color: black;
@@ -16,11 +20,10 @@
 .main_info{
     display: inline-block;
     text-align: center;
+    opacity: 1;
+    
 }
 
-blockquote{
-    border-bottom: 1px solid black;
-}
 
 .public_room{
     display: inline-block;
